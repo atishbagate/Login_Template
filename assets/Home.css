@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(165, 32, 98, 0.945);
+    align-items: center;
+    text-align: center;
+}
+button{
+    background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 20px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+button:focus {
+    border: 2px solid red;
+    border-radius: 20px;
+  }
